@@ -1,0 +1,36 @@
+{
+  "name": "@pickpoint/geocoder",
+  "version": "0.1.0",
+  "description": "PickPoint Geocoder Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pickpoint/node-geocoder.git"
+  },
+  "keywords": [
+    "geocding",
+    "geocoder",
+    "pickpoint",
+    "api",
+    "service",
+    "forward",
+    "reverse",
+    "geolocation",
+    "coordinates"
+  ],
+  "author": "PickPoint Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pickpoint/node-geocoder/issues"
+  },
+  "homepage": "https://github.com/pickpoint/node-geocoder#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "colors": "^1.1.2",
+    "lodash": "^4.17.4",
+    "superagent": "^3.5.2"
+  }
+}
