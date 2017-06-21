@@ -1,7 +1,7 @@
 require('colors');
 
 const config = require('./_config.json');
-const Geocoder = require('../lib/geocoder');
+const Geocoder = require('../');
 
 const geocoder = new Geocoder(config.apiKey);
 const coordinates = require('./data/coordinates.json').coordinates;

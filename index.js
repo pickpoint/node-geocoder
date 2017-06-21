@@ -1,3 +1,2 @@
-const Geocoder = require('lib/geocoder');
-
-exports.Geocoder = Geocoder;
+const Geocoder = require('./lib/geocoder');
+module.exports = Geocoder;
