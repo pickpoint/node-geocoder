@@ -89,6 +89,8 @@ Promise.all(promises).then(results => {
 You can find a couple of examples of how to use the library 
 in [/examples](https://github.com/pickpoint/node-geocoder/tree/master/examples) directory.
 The examples are configured to use relative path to the library.
+There is a testing API key. 
+Please replace it with your own, because the existing one most probably will be locked by others.   
 
 ## Contributing
 Basically the package is pretty simple and we're not expecting further improvements.
