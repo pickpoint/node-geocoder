@@ -54,7 +54,7 @@ geocoder.reverse('48.8588100', '2.32003101155031').then(res => {
   console.log(res);
 });
 ```
----> osm_type: "relation", osm_id: "5962792" 
+---> osm_type: "relation", osm_id: "5962792", "some data" 
 
 20 days later:
 ```javascript
