@@ -11,7 +11,7 @@
     "url": "git+https://github.com/pickpoint/node-geocoder.git"
   },
   "keywords": [
-    "geocding",
+    "geocoding",
     "geocoder",
     "pickpoint",
     "api",
@@ -19,7 +19,9 @@
     "forward",
     "reverse",
     "geolocation",
-    "coordinates"
+    "coordinates",
+    "locations service",
+    "osm"
   ],
   "author": "PickPoint Team",
   "license": "MIT",
